@@ -1,27 +1,31 @@
-Time Series Data Analysis – Power BI Report
+# Time Series Data Analysis – Power BI Report
+
 This repository contains a Power BI report focused on time series analysis of business day data. The report showcases dynamic visualizations and insights derived from temporal trends, helping to identify patterns, seasonality, and key changes over time.
 
-🔍 Features
-📅 Date-based filtering with business day granularity
+## 🔍Features
 
-📈 Time series visualization using line charts and trend indicators
+📅 **Date-based** filtering with business day granularity
 
-🧠 Rolling averages and forecasting to analyze long-term behavior
+📈 **Time series** visualization using line charts and trend indicators
 
-📊 Interactive slicers for filtering by time frames and business metrics
+🧠 **Rolling averages and forecasting** to analyze long-term behavior
 
-📌 KPI cards to highlight performance indicators and anomalies
+📊 **Interactive slicers** for filtering by time frames and business metrics
 
-📂 Contents
-Timeseries data.pbix – The main Power BI report file
+📌 **KPI cards** to highlight performance indicators and anomalies
 
-README.md – Overview of the report, setup, and usage
+## 📂Contents
+
+`Timeseries data.pbix` – The main Power BI report file
+
+`README.md` – Overview of the report, setup, and usage
 
 (Optional) Screenshots or sample data files
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Power BI Desktop
 
 DAX for calculated columns and measures
 
-Time intelligence functions (e.g., SAMEPERIODLASTYEAR, DATESYTD, TOTALYTD)
+Time intelligence functions (e.g., `SAMEPERIODLASTYEAR`, `DATESYTD`, `TOTALYTD`)
+
