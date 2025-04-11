@@ -2,6 +2,9 @@
 
 This repository contains a Power BI report focused on time series analysis of business day data. The report showcases dynamic visualizations and insights derived from temporal trends, helping to identify patterns, seasonality, and key changes over time.
 
+![Timeseries Dashboard](https://github.com/user-attachments/assets/ae493aff-aa0c-4e8e-a5ae-8873f47a6f97)
+
+
 ## 🔍Features
 
 📅 **Date-based** filtering with business day granularity
